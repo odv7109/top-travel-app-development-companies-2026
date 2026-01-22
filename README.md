@@ -11,7 +11,7 @@ This repository lists companies providing **travel and hospitality software deve
 
 All information is based on **public sources, verified company portfolios, and industry references**.
 
-![Travel App Illustration](Image .png)
+![Travel App Illustration](Image.png)
 
 
 ---
